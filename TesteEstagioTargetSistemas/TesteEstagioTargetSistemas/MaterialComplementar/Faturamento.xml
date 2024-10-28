@@ -1,0 +1,97 @@
+﻿<Faturamento>
+  <Mes nome="Outubro" ano="2024">
+    <Dia data="2024-10-01">
+      <Total>1500.00</Total>
+    </Dia>
+    <Dia data="2024-10-02">
+      <Total>1200.00</Total>
+    </Dia>
+    <Dia data="2024-10-03">
+      <Total>1800.00</Total>
+    </Dia>
+    <Dia data="2024-10-04">
+      <Total>1600.00</Total>
+    </Dia>
+    <Dia data="2024-10-05">
+      <Total>1700.00</Total>
+    </Dia>
+    <Dia data="2024-10-06">
+      <Total>1900.00</Total>
+    </Dia>
+    <Dia data="2024-10-07">
+      <Total>2000.00</Total>
+    </Dia>
+    <Dia data="2024-10-08">
+      <Total>2200.00</Total>
+    </Dia>
+    <Dia data="2024-10-09">
+      <Total>2100.00</Total>
+    </Dia>
+    <Dia data="2024-10-10">
+      <Total>2400.00</Total>
+    </Dia>
+    <Dia data="2024-10-11">
+      <Total>2300.00</Total>
+    </Dia>
+    <Dia data="2024-10-12">
+      <Total>2500.00</Total>
+    </Dia>
+    <Dia data="2024-10-13">
+      <Total>2600.00</Total>
+    </Dia>
+    <Dia data="2024-10-14">
+      <Total>0.00</Total>
+    </Dia>
+    <Dia data="2024-10-15">
+      <Total>2700.00</Total>
+    </Dia>
+    <Dia data="2024-10-16">
+      <Total>2900.00</Total>
+    </Dia>
+    <Dia data="2024-10-17">
+      <Total>3000.00</Total>
+    </Dia>
+    <Dia data="2024-10-18">
+      <Total>3100.00</Total>
+    </Dia>
+    <Dia data="2024-10-19">
+      <Total>3200.00</Total>
+    </Dia>
+    <Dia data="2024-10-20">
+      <Total>3300.00</Total>
+    </Dia>
+    <Dia data="2024-10-21">
+      <Total>3400.00</Total>
+    </Dia>
+    <Dia data="2024-10-22">
+      <Total>3500.00</Total>
+    </Dia>
+    <Dia data="2024-10-23">
+      <Total>3600.00</Total>
+    </Dia>
+    <Dia data="2024-10-24">
+      <Total>3700.00</Total>
+    </Dia>
+    <Dia data="2024-10-25">
+      <Total>3800.00</Total>
+    </Dia>
+    <Dia data="2024-10-26">
+      <Total>3900.00</Total>
+    </Dia>
+    <Dia data="2024-10-27">
+      <Total>4000.00</Total>
+    </Dia>
+    <Dia data="2024-10-28">
+      <Total>4100.00</Total>
+    </Dia>
+    <Dia data="2024-10-29">
+      <Total>4200.00</Total>
+    </Dia>
+    <Dia data="2024-10-30">
+      <Total>4300.00</Total>
+    </Dia>
+    <Dia data="2024-10-31">
+      <Total>4400.00</Total>
+    </Dia>
+  </Mes>
+</Faturamento>
